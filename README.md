@@ -1,4 +1,4 @@
 # assignment
 
 
-armyCode - ში არის პირველი ამოცანის ამოხსნა, sortedSets - ში მეორე ამოცანი, sqlAssignment -ში sql-ის ყველა დავალება
+armyCode - ში არის პირველი ამოცანის ამოხსნა, sortedArrays - ში მეორე ამოცანი, sqlAssignment -ში sql-ის ყველა დავალება
