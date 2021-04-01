@@ -33,9 +33,9 @@ void enterNumbers(int n, int arr[]){
 int main(int argc, const char * argv[]) {
     int a, b;
     cin >> a;
-    cin >> b;
     int firstArray[a];
     enterNumbers(a, firstArray);
+    cin >> b;
     int secondArray[b];
     enterNumbers(b, secondArray);
     cout << secondArray[0] << endl;
